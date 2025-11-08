@@ -1,16 +1,37 @@
-# React + Vite
+# 🏛️ Қарақалпақ Империя
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[🏳️ Қарақалпақша](#) | [🇷🇺 Русский](#) | [🇬🇧 English](#) | [🇵🇱 Polski](#)
 
-Currently, two official plugins are available:
+🌐 **Толық мағлыўмат:** [karakalpakvoice.org](https://karakalpakvoice.org)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🚀 Раўажланыў процесинде
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Қарақалпақ тилин сақлаў ҳәм раўажландырыў үшин жасанды интеллект платформасы.
 
-## Expanding the ESLint configuration
+**Толық ақпарат жәрияланыўда түрады...**
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Технологиялар
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+---
+
+## 👨‍💻 Контакт
+
+[karakalpakvoice.org](https://karakalpakvoice.org)
+
+---
+
+<div align="center">
+
+**Made with ❤️ for Karakalpak language**
+
+🌍 Visit [karakalpakvoice.org](https://karakalpakvoice.org) for more information
+
+</div>
